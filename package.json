@@ -1,0 +1,33 @@
+{
+  "name": "@iwezix/genpassword",
+  "version": "1.1.0",
+  "description": "A password generator",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iwezix/GenPassword"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "random",
+    "string",
+    "typescript",
+    "nodejs",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "IweZix",
+  "license": "ISC",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
